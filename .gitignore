@@ -1,0 +1,6 @@
+.log
+*.py[cod]
+*.pyc
+__pycache__
+.idea
+.pytest_cache
